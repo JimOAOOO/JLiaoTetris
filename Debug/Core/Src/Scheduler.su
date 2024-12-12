@@ -1,0 +1,4 @@
+../Core/Src/Scheduler.c:5:6:addSchedulerEvent	16	static
+../Core/Src/Scheduler.c:9:6:removeSchedulerEvent	16	static
+../Core/Src/Scheduler.c:13:10:getScheduledEvents	4	static
+../Core/Src/Scheduler.c:17:6:clearSchedulerEvent	8	static

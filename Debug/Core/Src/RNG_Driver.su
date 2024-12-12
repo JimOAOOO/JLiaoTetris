@@ -1,0 +1,2 @@
+../Core/Src/RNG_Driver.c:7:6:RNG_Init	16	static
+../Core/Src/RNG_Driver.c:22:10:RNG_Generate	16	static
