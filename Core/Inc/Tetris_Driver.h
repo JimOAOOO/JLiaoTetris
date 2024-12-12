@@ -6,7 +6,7 @@
 #define GRID_WIDTH 10
 #define GRID_HEIGHT 20
 #define CELL_SIZE 15
-#define FALL_TIME 3000 //in ms
+#define FALL_TIME 300 //in ms
 enum {
     COLOR_NONE = 0x0000,    // Black
     COLOR_CYAN = 0x07FF,    // I-Tetrimino
